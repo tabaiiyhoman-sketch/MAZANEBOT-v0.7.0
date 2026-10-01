@@ -1,0 +1,1 @@
+# MAZANEBOT-v0.7.0
